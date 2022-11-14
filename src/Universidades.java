@@ -8,9 +8,10 @@ public class Universidades {
     final String kill_me = "MATENMEEEEEEE";
     public void Universidades(){
         nombreUni = "EPN";
-        direccionUni = "Patria";
+        direccionUni = "Patria DAVID ESTUVO ACA";
         num_Estudiantes = 1264;
         n_Carreras = 30;
+
     }
 
 
