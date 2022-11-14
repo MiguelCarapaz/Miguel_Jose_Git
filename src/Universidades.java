@@ -5,6 +5,7 @@ public class Universidades {
     int num_Estudiantes;
     int n_Carreras;
 
+    final String kill_me = "MATENMEEEEEEE";
     public void Universidades(){
         nombreUni = "EPN";
         direccionUni = "Patria";
