@@ -8,6 +8,8 @@ public class Universidades{
 
         System.out.println(nombre_test + " tiene " + edad);
         String carrera = JOptionPane.showInputDialog("Ingresa tu carrera");
-        System.out.println("Tu carrera es:" + carrera);
+
+
+        System.out.println("que miras sapo");
     }
 }
