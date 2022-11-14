@@ -7,5 +7,7 @@ public class Universidades{
         int edad = Integer.parseInt(JOptionPane.showInputDialog("Ingresa tu edad"));
 
         System.out.println(nombre_test + " tiene " + edad);
+        String carrera = JOptionPane.showInputDialog("Ingresa tu carrera");
+        System.out.println("Tu carrera es:" + carrera);
     }
 }
