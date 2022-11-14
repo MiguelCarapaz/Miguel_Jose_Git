@@ -9,7 +9,7 @@ public class Universidades {
 
     //CONSTRUCTOR
 
-    public universidades(){
+    public Universidades(){
          aulas=100  ;
          color = "ROJO";
          anio = 1978;
