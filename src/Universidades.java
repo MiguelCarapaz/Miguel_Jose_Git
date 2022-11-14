@@ -2,6 +2,9 @@ public class Universidades {
     //ATRIBUTOS
     String nombre,direccion;
     int carreras, alumnos, bibliotecas;
+
+    double costo_Carrera;
+
         public Universidades(){
             nombre="EPN";
             direccion="AVD.12 de obtubre";
@@ -56,4 +59,6 @@ public class Universidades {
     public void setBibliotecas(int bibliotecas) {
         this.bibliotecas = bibliotecas;
     }
+
+
 }
