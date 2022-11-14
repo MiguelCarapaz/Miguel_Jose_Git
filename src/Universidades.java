@@ -1,4 +1,4 @@
-public class universidades {
+public class Universidades {
 
     //ATTRIBUTES
 
